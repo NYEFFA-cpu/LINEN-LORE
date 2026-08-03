@@ -91,7 +91,7 @@ ul li a:hover {
 }
 
 .title h1 {
-    font-size: clamp(2rem, 7vw, 4.2rem);
+    font-size: 45px;
     font-weight: 700;
     letter-spacing: 0.04em;
     line-height: 1.2;
